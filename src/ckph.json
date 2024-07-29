@@ -1,0 +1,310 @@
+[
+    {
+        "account_number": "1847",
+        "service_date": "2024-05-31",
+        "date_listed": "2024-07-17",
+        "client_id": "CKPH",
+        "debtor": {
+            "first_name": "GRACE",
+            "last_name": "WALLACE",
+            "middle_name": "",
+            "email": "",
+            "address_line_1": "407 N Locust St",
+            "address_line_2": "",
+            "city_name": "PEABODY",
+            "state_name": "KS",
+            "zip_code": "66866",
+            "phone_numbers": [
+                "6209832162"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "GRACE",
+            "last_name": "WALLACE",
+            "middle_name": "",
+            "email": "",
+            "address_line_1": "407 N Locust St",
+            "address_line_2": "",
+            "city_name": "PEABODY",
+            "state_name": "KS",
+            "zip_code": "66866",
+            "phone_numbers": [
+                "6209832162"
+            ]
+        },
+        "initial_account_balance": 145.27,
+        "current_account_balance": 145.27,
+        "amount_paid_to_date": 0.00,
+        "procedure_code": "7352755-00, 7352925-01 , 7353172-00",
+        "procedure_description": "7352755-00 - GRACE WALLACE,  7352925-01 - GRACE WALLACE, 7353172-00 - GRACE WALLACE",
+        "provider_name": "CK Pharmacy - Peabody",
+        "ar_debt_id": "1847",
+        "debt_notes": {
+            "account_number": "1847",
+            "service_date": "2024-05-31",
+            "initial_account_balance": 145.27,
+            "current_account_balance": 145.27,
+            "amount_paid_to_date": 0.00,
+            "debtor": {
+                "first_name": "GRACE",
+                "last_name": "WALLACE",
+                "middle_name": "",
+                "email": "",
+                "address_line_1": "407 N Locust St",
+                "address_line_2": "",
+                "city_name": "PEABODY",
+                "state_name": "KS",
+                "zip_code": "66866",
+                "phone_numbers": [
+                    "6209832162"
+                ]
+            },
+            "procedure_code": "",
+            "procedure_description": "",
+            "provider_name": "K Pharmacy - Peabody",
+            "debt_notes": {
+                "Credit Limit": "$50.00",
+                "Current Balance": "$145.27",
+                "Last Payment On": "",
+                "Last Payment Amount": "0.00",
+                "Outstanding Charges": [
+                    {
+                        "Date": "2023-4-13",
+                        "Description": "7352755-00 - GRACE WALLACE",
+                        "Drug Name": " Tolterodine Tart Er 2 N4g Cap",
+                        "Total": "$72.65",
+                        "Payments Applied": "$0.00",
+                        "Balance Due": "$72.65"
+                    },
+                    {
+                        "Date": "2023-5-11",
+                        "Description": "7352925-01 - GRACE WALLACE",
+                        "Drug Name": "Methenamine Hipp 1Gm Tablet",
+                        "Total": "$7.51",
+                        "Payments Applied": "$0.00",
+                        "Balance Due": "$7.51"
+                    },
+                    {
+                        "Date": "2023-5-15",
+                        "Description": "7353172-00 - GRACE WALLACE",
+                        "Drug Name": "Tolterodine Tart Er 2 N49 cap",
+                        "Total": "$6.30",
+                        "Payments Applied": "$0.00",
+                        "Balance Due": "$6.30"
+                    }
+                ],
+                "Previous Balance": 143.01,
+                "Month Charges/Adjustments": 0.00,
+                "Payments/Credits": 0.00,
+                "Finance/Service Charges": 2.26,
+                "Total Amount Due": 145.27
+            }
+        }
+    },
+
+    {
+        "account_number": "1865",
+        "service_date": "2024-06-17",
+        "date_listed": "2024-07-17",
+        "client_id": "CKPH",
+        "debtor": {
+            "first_name": "SHERRIE",
+            "last_name": "BROWN",
+            "middle_name": "",
+            "email": "",
+            "address_line_1": "3101 Switzer Rd",
+            "address_line_2": "",
+            "city_name": "HUTCHINSON",
+            "state_name": "KS",
+            "zip_code": "67501",
+            "phone_numbers": [
+                "6209832162"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "SHERRIE",
+            "last_name": "BROWN",
+            "middle_name": "",
+            "email": "",
+            "address_line_1": "3101 Switzer Rd",
+            "address_line_2": "",
+            "city_name": "HUTCHINSON",
+            "state_name": "KS",
+            "zip_code": "67501",
+            "phone_numbers": [
+                "6209832162"
+            ]
+        },
+        "initial_account_balance": 11.07,
+        "current_account_balance": 11.07,
+        "amount_paid_to_date": 0.00,
+        "procedure_code": "7356416-00, 7356420-00,  7356424-00",
+        "procedure_description": "7356416-00 - SHERRIE BROWN,  7356420-00 - SHERRIE BROWN, 7356424-00 - SHERRIE BROWN",
+        "provider_name": "K Pharmacy - Peabody",
+        "ar_debt_id": "1865",
+        "debt_notes": {
+            "account_number": "1865",
+            "service_date": "2024-06-17",
+            "initial_account_balance": 11.07,
+            "current_account_balance": 11.07,
+            "amount_paid_to_date": 0.00,
+            "debtor": {
+                "first_name": "SHERRIE",
+                "last_name": "BROWN",
+                "middle_name": "",
+                "email": "",
+                "address_line_1": "3101 Switzer Rd",
+                "address_line_2": "",
+                "city_name": "HUTCHINSON",
+                "state_name": "KS",
+                "zip_code": "67501",
+                "phone_numbers": [
+                    "6209832162"
+                ]
+            },
+            "procedure_code": "",
+            "procedure_description": "",
+            "provider_name": "K Pharmacy - Peabody",
+            "debt_notes": {
+                "Credit Limit": "$50.00",
+                "Current Balance": "$11.07",
+                "Last Payment On": "",
+                "Last Payment Amount": "0.00",
+                "Outstanding Charges": [
+                    {
+                        "Date": "2024-1-23",
+                        "Description": "7356416-00 - SHERRIE BROWN",
+                        "Drug Name": " Albuterol Sul 2.5 Mg/3Ml Soln",
+                        "Total": "$1.55",
+                        "Payments Applied": "$0.00",
+                        "Balance Due": "$1.55"
+                    },
+                    {
+                        "Date": "2024-1-23",
+                        "Description": " 7356420-00 - SHERRIE BROWN",
+                        "Drug Name": "Tizanidine 4mg",
+                        "Total": "$0.75",
+                        "Payments Applied": "$0.00",
+                        "Balance Due": "$0.75"
+                    },
+                    {
+                        "Date": "2024-1-23",
+                        "Description": "7356424-00 - SHERRIE BROWN",
+                        "Drug Name": " Furosemide 40 Mg Tablet",
+                        "Total": "$1.50",
+                        "Payments Applied": "$0.00",
+                        "Balance Due": "$1.50"
+                    } 
+                ],
+                "Previous Balance": 11.07,
+                "Charges/Adjustments": 0.00,
+                "Payments/Credits": 0.00,
+                "Total Amount Due": 11.07
+            }
+        }
+    },
+
+    {
+        "account_number": "1864",
+        "service_date": "2024-05-31",
+        "date_listed": "2024-07-17",
+        "client_id": "CKPH",
+        "debtor": {
+            "first_name": "PAULA DENISE",
+            "last_name": "BROWN",
+            "middle_name": "",
+            "email": "",
+            "address_line_1": "407 N Locust St",
+            "address_line_2": "",
+            "city_name": "Peabody",
+            "state_name": "KS",
+            "zip_code": "66866",
+            "phone_numbers": [
+                "6209832162"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "PAULA DENISE",
+            "last_name": "BROWN",
+            "middle_name": "",
+            "email": "",
+            "address_line_1": "407 N Locust St",
+            "address_line_2": "",
+            "city_name": "Peabody",
+            "state_name": "KS",
+            "zip_code": "66866",
+            "phone_numbers": [
+                "6209832162"
+            ]
+        },
+        "initial_account_balance": 11.38,
+        "current_account_balance": 11.38,
+        "amount_paid_to_date": 0.00,
+        "procedure_code": "7356415-00",
+        "procedure_description": "7356415-00 - PAULA BROWN,  Finance Charges calculated from charges as",
+        "provider_name": "K Pharmacy - Peabody",
+        "ar_debt_id": "1864",
+        "debt_notes": {
+            "account_number": "1864",
+            "service_date": "2024-06-17",
+            "initial_account_balance": 11.38,
+            "current_account_balance": 11.38,
+            "amount_paid_to_date": 0.00,
+            "debtor": {
+                "first_name": "PAULA DENISE",
+                "last_name": "BROWN",
+                "middle_name": "",
+                "email": "",
+                "address_line_1": "407 N Locust St",
+                "address_line_2": "",
+                "city_name": "Peabody",
+                "state_name": "KS",
+                "zip_code": "66866",
+                "phone_numbers": [
+                    "6209832162"
+                ]
+            },
+            "procedure_code": "",
+            "procedure_description": "",
+            "provider_name": "K Pharmacy - Peabody",
+            "debt_notes": {
+                "Credit Limit": "$50.00",
+                "Current Balance": "$11.38",
+                "Last Payment On": "",
+                "Last Payment Amount": "0.00",
+                "Outstanding Charges": [
+                    {
+                        "Date": "2024-1-23",
+                        "Description": "7356415-00 - PAULA BROWN",
+                        "Drug Name": "Polyethylene Glycol 3350 Powd",
+                        "Total": "$10.86",
+                        "Payments Applied": "$0.00",
+                        "Balance Due": "$10.86"
+                    },
+                    {
+                        "Date": "2024-3-31",
+                        "Description": "Finance Charges calculated from charges as",
+                        "Drug Name": "",
+                        "Total": "$0.17",
+                        "Payments Applied": "$0.00",
+                        "Balance Due": "$0.17"
+                    },
+                    {
+                        "Date": "2024-4-30",
+                        "Description": "Finance Charges calculated from charges as",
+                        "Drug Name": "",
+                        "Total": "$0.17",
+                        "Payments Applied": "$0.00",
+                        "Balance Due": "$0.17"
+                    } 
+                ],
+                "Previous Balance": 11.20,
+                "Month Charges/Adjustments": 0.00,
+                "Payments/Credits": 0.00,
+                "Finance/Service Charges": 0.18,
+                "Total Amount Due": 11.38
+            }
+        }
+    }
+
+]
